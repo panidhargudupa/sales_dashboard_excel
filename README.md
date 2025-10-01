@@ -107,3 +107,9 @@ It highlights not just technical ability, but also the ability to **communicate 
 I followed/was inspired by this video:  
 **Build an Awesome Excel Dashboard | PORTFOLIO Project | Data Analyst Project | Sales Dashboard**  
 [Watch on YouTube](https://www.youtube.com/watch?v=6OMR81faW54)  
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FFD700?style=flat)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-2E8B57?style=flat)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-FF4500?style=flat)
+
