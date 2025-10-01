@@ -74,7 +74,7 @@ This allows stakeholders to:
 
 Here’s a quick preview of the interactive Excel Sales Dashboard in action:  
 
-![Excel Dashboard Demo]("D:\downloads\sales_dashboard.gif")  
+![Excel Dashboard Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJxbnFyNG9ramhuNXljNTVoeHg0dHhpbndvaHc3YXB2bjQwc3VweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7GRQTZ5DGov8RZHx3/giphy.gif)  
 
 
 
