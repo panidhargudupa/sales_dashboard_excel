@@ -67,7 +67,16 @@ This allows stakeholders to:
 
 ## 📸 Dashboard Preview  
 
-![Sales Dashboard Screenshot]("D:\downloads\sales_dashboard.jpg")  
+![Sales Dashboard Screenshot]
+<img width="1905" height="862" alt="image" src="https://github.com/user-attachments/assets/0fd4f7a8-6ba7-4283-8a37-91d1dd020ae3" />
+
+## 🎬 Dashboard Demo  
+
+Here’s a quick preview of the interactive Excel Sales Dashboard in action:  
+
+![Excel Dashboard Demo]("D:\downloads\sales_dashboard.gif")  
+
+
 
 ---
 
@@ -92,3 +101,9 @@ This project is an excellent **portfolio addition** for aspiring Data Analysts o
 It highlights not just technical ability, but also the ability to **communicate insights effectively** through interactive dashboards.  
 
 💡 *Data is only valuable when it tells a story — this dashboard is my way of turning numbers into decisions.*  
+
+### 🎥 Reference
+
+I followed/was inspired by this video:  
+**Build an Awesome Excel Dashboard | PORTFOLIO Project | Data Analyst Project | Sales Dashboard**  
+[Watch on YouTube](https://www.youtube.com/watch?v=6OMR81faW54)  
